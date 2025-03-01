@@ -105,7 +105,7 @@ def fit(
         correct = 0
         total = 0
 
-        with torch.no_grad():  # No gradients needed during validation
+        with torch.no_grad():  # No gradients needed during validation / we just want it to run faster
             for images, labels in val_loader:
                 images, labels = images.to(device), labels.to(device)
 
