@@ -5,7 +5,7 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
+| #Krystian Bialy# | #S151265# |
 | #NAME# | #ID# |
 | #NAME# | #ID# |
 
